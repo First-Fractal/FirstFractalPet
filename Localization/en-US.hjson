@@ -1,0 +1,21 @@
+Mods: 
+{
+	FirstFractalPet: 
+	{
+		ItemName: 
+		{
+			FirstFractalPetItem: "First Fractal Pet Sword"
+		}
+		
+		ItemTooltip: 
+		{
+			FirstFractalPetItem: "Now you get to flex your first fractal to everyone."
+		}
+		BuffName: {
+			FirstFractalPetBuff: "First Fractal Pet"
+		}
+		BuffDescription: {
+			FirstFractalPetBuff: "It's a flying sword that's on your back."
+		}
+	}
+}
